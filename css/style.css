@@ -154,7 +154,7 @@ button:focus {
         font-family: "Lato", "PT_sans";
         text-transform: uppercase;
         color: #222222;
-        padding: 0px;
+        padding: 5px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
@@ -300,7 +300,7 @@ button:focus {
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .home_left_img {
-      padding-top: 195px; }
+      padding-top: 120px; }
     .home_banner_area .banner_inner .col-lg-6 {
       vertical-align: middle;
       align-self: center; }
@@ -391,7 +391,7 @@ button:focus {
       .banner_area .banner_inner .banner_content h2 {
         color: #222222;
         font-size: 36px;
-        font-family: "Heebo", sans-serif;
+        font-family: "Lato", "PT_sans";
         margin-bottom: 0px;
         text-transform: uppercase;
         font-weight: bold; }
@@ -3095,9 +3095,5 @@ h6 {
 /* @media only screen and (max-width: 600px){
   body{
     background-color: lightblue;
-  }
-  .home_left_img{
-    width: 100px;
-    height: 100px;
   }
 } */
